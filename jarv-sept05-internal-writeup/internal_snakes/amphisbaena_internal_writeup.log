@@ -1,0 +1,228 @@
+This is TeX, Version 3.14159 (Web2C 7.4.5) (format=latex 2003.3.8)  1 OCT 2005 18:14
+**amphisbaena_internal_writeup.tex
+(./amphisbaena_internal_writeup.tex
+LaTeX2e <2001/06/01>
+Babel <v3.7h> and hyphenation patterns for american, french, german, ngerman, n
+ohyphenation, loaded.
+(/usr/share/texmf/tex/latex/base/report.cls
+Document Class: report 2001/04/21 v1.4e Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/size10.clo
+File: size10.clo 2001/04/21 v1.4e Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2001/07/07 v1.0n Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2001/08/31 v1.1 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 80.
+
+(/usr/share/texmf/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texmf/tex/latex/misc/subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip43
+\subfigcapskip=\skip44
+\subfigcaptopadj=\dimen105
+\subfigbottomskip=\skip45
+\subfigcapmargin=\dimen106
+\subfiglabelskip=\skip46
+\c@subfigure=\count88
+\c@lofdepth=\count89
+\c@subtable=\count90
+\c@lotdepth=\count91
+\subfig@top=\skip47
+\subfig@bottom=\skip48
+)
+\@input{epsf.aux}
+\openout2 = `epsf.aux'.
+
+(/usr/share/texmf/tex/generic/misc/epsf.tex
+This is `epsf.tex' v2.7k <10 July 1997>
+\epsffilein=\read1
+\epsfframemargin=\dimen107
+\epsfframethickness=\dimen108
+\epsfrsize=\dimen109
+\epsftmp=\dimen110
+\epsftsize=\dimen111
+\epsfxsize=\dimen112
+\epsfysize=\dimen113
+\pspoints=\dimen114
+\epsfnoopenhelp=\toks15
+)
+
+LaTeX Warning: Unused global option(s):
+    [a4].
+
+(./amphisbaena_internal_writeup.aux
+
+LaTeX Warning: Label `2d_morphology' multiply defined.
+
+)
+\openout1 = `amphisbaena_internal_writeup.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+File: figures/amphisbaena.ps Graphic file (type eps)
+ <figures/amphisbaena.ps>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 27.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 27.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 27.
+
+
+LaTeX Warning: Optional argument of \twocolumn too tall on page 1.
+
+
+Overfull \vbox (28.7555pt too high) has occurred while \output is active []
+
+
+
+LaTeX Warning: Text page 1 contains only floats.
+
+
+Overfull \vbox (28.7555pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (14.7555pt too high) has occurred while \output is active []
+
+
+[1
+
+
+
+
+]
+Chapter 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 34.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 34.
+
+Underfull \vbox (badness 1112) has occurred while \output is active []
+
+ [2
+
+]
+[3]
+Underfull \hbox (badness 1622) in paragraph at lines 181--185
+[]\OT1/cmr/m/n/10 The size of the ini-tial clumps in the quasi-
+ []
+
+File: figures/percolate.eps Graphic file (type eps)
+<figures/percolate.eps> [4]
+File: figures/attractive_20.eps Graphic file (type eps)
+ <figures/attractive_20.eps>
+File: figures/repulsive_20.eps Graphic file (type eps)
+
+<figures/repulsive_20.eps>
+File: figures/attractive_40pc_colour_morph.ps Graphic file (type eps)
+ <figures/attractive_40pc_colour_morph.ps>
+File: figures/repulsive_40pc_colour_morph.ps Graphic file (type eps)
+
+<figures/repulsive_40pc_colour_morph.ps>
+File: figures/attractive_frame88.ps Graphic file (type eps)
+ <figures/attractive_frame88.ps>
+File: figures/repulsive_frame88.ps Graphic file (type eps)
+
+<figures/repulsive_frame88.ps>
+Underfull \hbox (badness 4556) in paragraph at lines 305--308
+\OT1/cmr/m/n/10 Due to the large times re-quired to pro-duce
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--321
+[]\OT1/cmr/m/n/10 The func-tions `save[]lattice[]file' and
+ []
+
+
+Underfull \hbox (badness 6236) in paragraph at lines 319--321
+\OT1/cmr/m/n/10 `load[]lattice[]file' in `lat-tice[]util.c' are used to
+ []
+
+[5] [6]
+Chapter 2.
+[7
+
+] [8]
+Chapter 3.
+File: figures/a_0.25.bin_lattice.dat.ToF_trans.eps Graphic file (type eps)
+<figures/a_0.25.bin_lattice.dat.ToF_trans.eps>
+File: figures/r_0.25.bin_lattice.dat.ToF_trans.eps Graphic file (type eps)
+
+<figures/r_0.25.bin_lattice.dat.ToF_trans.eps>
+Underfull \hbox (badness 1033) in paragraph at lines 486--486
+\OT1/cmr/m/n/10 mer blends. Cur-rent ver-sus Time is pre-sented
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 486--486
+\OT1/cmr/m/n/10 on a logscale, with the data col-lated into $150$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 490--490
+[]\OT1/cmr/bx/n/12 Relative Mo-bil-ity & Pool-
+ []
+
+[9
+
+]
+Underfull \hbox (badness 1199) in paragraph at lines 523--529
+\OT1/cmr/m/n/10 The het-erophilic (lace-work) blends were demon-
+ []
+
+[10] (./amphisbaena_internal_writeup.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 830 strings out of 95847
+ 10419 string characters out of 1195949
+ 58585 words of memory out of 1000001
+ 3795 multiletter control sequences out of 10000+50000
+ 8977 words of font info for 32 fonts, out of 500000 for 1000
+ 14 hyphenation exceptions out of 1000
+ 25i,7n,24p,513b,353s stack positions out of 1500i,500n,5000p,200000b,5000s
+
+Output written on amphisbaena_internal_writeup.dvi (10 pages, 34812 bytes).

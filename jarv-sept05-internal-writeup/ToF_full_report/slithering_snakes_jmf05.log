@@ -1,0 +1,167 @@
+This is TeX, Version 3.14159 (Web2C 7.4.5) (format=latex 2003.3.8)  8 SEP 2005 16:28
+**slithering_snakes_jmf05.tex
+(./slithering_snakes_jmf05.tex
+LaTeX2e <2001/06/01>
+Babel <v3.7h> and hyphenation patterns for american, french, german, ngerman, n
+ohyphenation, loaded.
+(/usr/share/texmf/tex/latex/base/article.cls
+Document Class: article 2001/04/21 v1.4e Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/size10.clo
+File: size10.clo 2001/04/21 v1.4e Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2001/07/07 v1.0n Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2001/08/31 v1.1 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 80.
+
+(/usr/share/texmf/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texmf/tex/latex/misc/subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip43
+\subfigcapskip=\skip44
+\subfigcaptopadj=\dimen105
+\subfigbottomskip=\skip45
+\subfigcapmargin=\dimen106
+\subfiglabelskip=\skip46
+\c@subfigure=\count87
+\c@lofdepth=\count88
+\c@subtable=\count89
+\c@lotdepth=\count90
+\subfig@top=\skip47
+\subfig@bottom=\skip48
+)
+\@input{epsf.aux}
+\openout2 = `epsf.aux'.
+
+(/usr/share/texmf/tex/generic/misc/epsf.tex
+This is `epsf.tex' v2.7k <10 July 1997>
+\epsffilein=\read1
+\epsfframemargin=\dimen107
+\epsfframethickness=\dimen108
+\epsfrsize=\dimen109
+\epsftmp=\dimen110
+\epsftsize=\dimen111
+\epsfxsize=\dimen112
+\epsfysize=\dimen113
+\pspoints=\dimen114
+\epsfnoopenhelp=\toks15
+)
+
+LaTeX Warning: Unused global option(s):
+    [a4].
+
+(./slithering_snakes_jmf05.aux)
+\openout1 = `slithering_snakes_jmf05.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 15.
+ [1
+
+
+
+
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 47.
+File: figures/percolate.eps Graphic file (type eps)
+ <figures/percolate.eps> [2
+
+]
+File: figures/attractive_20.eps Graphic file (type eps)
+
+<figures/attractive_20.eps>
+File: figures/repulsive_20.eps Graphic file (type eps)
+ <figures/repulsive_20.eps>
+Underfull \hbox (badness 4859) in paragraph at lines 157--157
+[]\OT1/cmr/bx/n/12 Heterophilic Blends (Lace-work
+ []
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 158--166
+\OT1/cmr/m/n/10 When the affin-ity be-tween snake-sea was made
+ []
+
+[3]
+Underfull \hbox (badness 1005) in paragraph at lines 244--248
+[]\OT1/cmr/m/n/10 Homophilic mor-pholo-gies only pro-duced vi-able
+ []
+
+File: figures/a_0.25.bin_lattice.dat.ToF_trans.eps Graphic file (type eps)
+<figures/a_0.25.bin_lattice.dat.ToF_trans.eps>
+File: figures/r_0.25.bin_lattice.dat.ToF_trans.eps Graphic file (type eps)
+
+<figures/r_0.25.bin_lattice.dat.ToF_trans.eps>
+Underfull \hbox (badness 1043) in paragraph at lines 269--269
+[]\OT1/cmr/m/n/10 Figure 3: Sim-u-lated Time of Flights gen-er-ated
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 269--269
+\OT1/cmr/m/n/10 mer blends. Cur-rent ver-sus Time is pre-sented
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 269--269
+\OT1/cmr/m/n/10 on a logscale, with the data col-lated into $150$
+ []
+
+[4] [5] (./slithering_snakes_jmf05.aux) ) 
+Here is how much of TeX's memory you used:
+ 787 strings out of 95847
+ 9706 string characters out of 1195949
+ 58796 words of memory out of 1000001
+ 3760 multiletter control sequences out of 10000+50000
+ 7587 words of font info for 27 fonts, out of 500000 for 1000
+ 14 hyphenation exceptions out of 1000
+ 25i,7n,24p,386b,353s stack positions out of 1500i,500n,5000p,200000b,5000s
+
+Output written on slithering_snakes_jmf05.dvi (5 pages, 17880 bytes).

@@ -1,0 +1,3 @@
+80x80 grid
+50% density
+Beta=0.02 [equiv. to snake energy interaction]
