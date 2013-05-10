@@ -1,7 +1,9 @@
 Amphisbaena and Gorgophone - codes to simulate reptation / flory model of a polymer, and Time-of-Flight mobility simulations.
 
 As used for the bulk of this Nanoletters paper:
+
 http://pubs.acs.org/doi/abs/10.1021/nl0608386
+
 "Monte Carlo algorithms are used to simulate the morphologies adopted by polymer chains in a polymer-blend film in the limits where the chains are mutually attractive (homophilic regime) and mutually repulsive (heterophilic regime) and then to simulate the drift transport of charges through the polymer chains. In the homophilic regime, chains aggregate into tangled domains resulting in a relatively high percolation threshold, a high density of configurational trap states, and slow, dispersive charge transport. In the heterophilic regime at the same polymer volume fraction, chains self-organize into a lacework pattern resulting in a low percolation threshold and efficient, trap-free charge transport. For homophilic morphologies interchain hopping is rate-limiting and mobility is insensitive to chain length, whereas for heterophilic morphologies intrachain transport is important and mobility increases with increasing chain length. The morphologies are used in simulations of photocurrent quantum efficiency for donor\u2212acceptor blend photodiodes, which show that the effects of morphology on charge pair generation and recombination compete with the effect on transport, such that the optimum blend composition is sensitive to both morphology and recombination rate. We conclude that it is essential to consider the connectivity of and morphology adopted by polymer chains in the optimization of materials for organic solar cells."
 
 Here be dragons; I was a lowly undergrad & loved stealing cycles in pure C more than making things readable.
@@ -10,6 +12,7 @@ Also here in the -p3ht subdirectory was some more recent work on a code that add
 
 May your polymer chains reptate in a manner truly sublime.
 
+```
 Slithers: 9000000 Snakes: 40 Lattice Points: 1750
 Density: 0.450000 Electricsegments: 720 Percolation: 1 Fraction Electric Snakes: 0.900000
 
@@ -38,4 +41,4 @@ ZZZ.Z............SSCCCC.......YYY.........NNNLLLKKKK..OO...........MM.
 .VVVVV.........................PPPPNNNN................MMMM.MIIIIIHHH.
 .VVVV..................................................MMMMMM.IIIIHHHH
 .......................................................MMMMMM.III.HH..
-
+```
