@@ -1,6 +1,6 @@
 Amphisbaena and Gorgophone - codes to simulate reptation / flory model of a polymer, and Time-of-Flight mobility simulations.
 
-As used for the bulk of this Nanoletters paper:
+This was developed in Summer 2005 in Jenny Nelson's group at Imperial College. This code produced the results for this Nanoletters paper:
 
 http://pubs.acs.org/doi/abs/10.1021/nl0608386
 
@@ -8,7 +8,7 @@ http://pubs.acs.org/doi/abs/10.1021/nl0608386
 
 Here be dragons; I was a lowly undergrad & loved stealing cycles in pure C more than making things readable.
 
-Also here in the -p3ht subdirectory was some more recent work on a code that added ansiotropic energy to the polymer chains to induce directional crystallisation.
+Also here in the -p3ht subdirectory was some more recent work (circa. 2008) on a code that added ansiotropic energy to the polymer chains to induce directional crystallisation, this work went into a conference proceedings by Amanda Chatten, but I don't believe that's accessible anywhere.
 
 May your polymer chains reptate in a manner truly sublime.
 
