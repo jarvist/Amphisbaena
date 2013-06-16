@@ -148,23 +148,31 @@ print_lattice_pnm ()
 
 void save_lattice_file(char * name)
 {
-   int x,y,z;
+   int x,y,z,s,seg;
    FILE *fo;
    fo=fopen(name,"w");
    fprintf(fo,"%d %d %d %d\n",X,Y,Z,num_snakes);
    
+// OK; need to access the snake data structure to paint in the dandelions
+
      for (x=0;x<X;x++)
        for (y=0;y<Y;y++)
 	 {
 	    fprintf(fo,"\n");
-	 for (z=0;z<Z;z++)
-
-	    fprintf (fo,"%d\t", lattice[x][y][z]);
+	    for (z=0;z<Z;z++)
+	        fprintf (fo,"%d\t", lattice[x][y][z]);
 	 }
-   
+    for (s=0;s<num_snakes;s++){
+    fprintf(fo,"\n");
+      for (seg=snakes[s].head;seg<(snakes[s].segs+snakes[s].head-1);seg++)
+        fprintf(fo,"%d %d %d\t ",
+                    snakes[s].oroborus[seg%snakes[s].segs].x, 
+                       snakes[s].oroborus[seg%snakes[s].segs].y, 
+                          snakes[s].oroborus[seg%snakes[s].segs].z);
+    }
 
-     fprintf(fo,"\n\n%d %f %f\n",TOTAL_SLITHERS,DENSITY,iE[1][1]);
-   fclose(fo);
+    fprintf(fo,"\n\n%d %f %f\n",TOTAL_SLITHERS,DENSITY,iE[1][1]);
+    fclose(fo);
 }
 
 void load_lattice_file(char * name)
