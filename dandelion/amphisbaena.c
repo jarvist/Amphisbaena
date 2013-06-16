@@ -30,7 +30,9 @@ main ()
 //  init_genrand(1); //seed MT random number 
   timestart=time(NULL); 
   init_genrand(timestart); //seed with current time in seconds since 1970 Unix Epoch
-   
+
+fprintf(stderr,"THE DANDELION PROJECT\nMaterials design for efficient up conversion.\n");
+
   empty_lattice (); //clears lattice
    fprintf(stderr,"Empty Lattice E: %f\n",lattice_energy());
   fill_snakes (DENSITY);
